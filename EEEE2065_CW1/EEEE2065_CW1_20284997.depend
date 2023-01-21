@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1668931309 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\numbers.cpp
+	<iostream>
+	"Numbers.h"
+
+1668930999 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\numbers.h
+
+1668931519 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\punctuations.cpp
+	<iostream>
+	"Punctuations.h"
+
+1668931014 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\punctuations.h
+
+1669038770 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	"validation.h"
+
+1668931001 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\alphabets.h
+
+1668931271 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\alphabets.cpp
+	<iostream>
+	"Alphabets.h"
+
+1668931934 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\validation.cpp
+	<iostream>
+	"validation.h"
+	"Alphabets.h"
+	"Numbers.h"
+	"Punctuations.h"
+
+1668931901 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw1_20284997\validation.h
+
